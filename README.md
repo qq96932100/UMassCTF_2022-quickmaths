@@ -1,7 +1,7 @@
 # UMassCTF_2022-quickmaths
  使用pwntools達到腳本解
  
-
+ ```python
 from pwn import *
 HOST = "34.148.103.218"
 PORT = 1228
@@ -53,4 +53,6 @@ while count <= 1000:
         count = 1 # restart             
 flag = r.recvline()
 print(flag)
+```
+
 
