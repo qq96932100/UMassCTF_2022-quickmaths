@@ -93,5 +93,6 @@ print(flag)
 <img src="https://github.com/qq96932100/UMassCTF_2022-quickmaths/blob/main/img/flag.png"/>
 
 <h2>有遇到甚麼困難?</h2>
-在解這題的過程中，常常會跳出EOFError，似乎是server timeout了。
+在解這題的過程中，常常會跳出EOFError，似乎是server timeout了。  
 所以我def了連線方式，在timeout後可以直接重新連線再跑一次。
+<img src="https://backstage.headout.com/wp-content/uploads/2021/04/ezgif-2-423490eb1f31.gif" alt="this_is_fine.gif">
