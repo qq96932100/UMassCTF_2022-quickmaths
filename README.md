@@ -4,7 +4,7 @@
 nc 34.148.103.218:1228，solve 1000 of math problems. Easy or hard? Up to you.
 
 <h2>Solve:</h2>
-1. 用netcat連上server uwu
+1. 用netcat連上server
 
 ```linux
 nc 34.148.103.218:1228
